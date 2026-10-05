@@ -19,4 +19,4 @@ if pepp=="Y":
         bill +=3
 if cheese=="Y":
     bill +=1
-print(f"Total bill is {bill}")
+print(f"Total bill is {bill}") 
